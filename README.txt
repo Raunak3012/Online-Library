@@ -11,7 +11,7 @@ Technology used: We used Django to develop the backend of this project(Django us
 
 Known bugs : The project currently does not have any bugs (or at least we could not find any).
 
-How to use it? : You need a chrome browser. Then you need to login with your account, if you are new to the site then you will have to create a new account. Then you will find the list of all the books available . You can search a book by its name in the search bar. You can also request for a book by clicking on request. You can upload books also. And then there is a logout button. 
+How to use it? : You need a chrome browser. Then you need to login with your account, if you are new to the site then you will have to create a new account. Then you will find the list of all the books available . You can search a book by its name in the search bar. You can also request for a book by clicking on request. You can upload books also.You can also add comments to a specific book. And then there is a logout button. 
 
 How to use automation script : For this you will be needing chromedriver which will connect chrome to python file.Also you must install selenium using pip install selenium command on command prompt. Automation script will automatically creates a new account using credentials form creds.py file and login to the website.
 
